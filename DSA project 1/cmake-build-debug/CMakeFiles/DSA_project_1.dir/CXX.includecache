@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Abdallah/_My College/My courses/DS/project/DSA project 1/DSA project 1/User.h
+bits/stdc++.h
+F:/Abdallah/_My College/My courses/DS/project/DSA project 1/DSA project 1/bits/stdc++.h
+
+F:/Abdallah/_My College/My courses/DS/project/DSA project 1/DSA project 1/UserList.cpp
+UserList.h
+F:/Abdallah/_My College/My courses/DS/project/DSA project 1/DSA project 1/UserList.h
+
+F:/Abdallah/_My College/My courses/DS/project/DSA project 1/DSA project 1/UserList.h
+iostream
+-
+User.h
+F:/Abdallah/_My College/My courses/DS/project/DSA project 1/DSA project 1/User.h
+
+F:/Abdallah/_My College/My courses/DS/project/DSA project 1/DSA project 1/main.cpp
+bits/stdc++.h
+-
+User.h
+F:/Abdallah/_My College/My courses/DS/project/DSA project 1/DSA project 1/User.h
+UserList.h
+F:/Abdallah/_My College/My courses/DS/project/DSA project 1/DSA project 1/UserList.h
+
